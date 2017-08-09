@@ -18,3 +18,12 @@
 與一般 python 相同：
 
     python main.py
+
+## 六子棋
+![connect6](https://user-images.githubusercontent.com/5562807/29100768-66c7b9fe-7ce0-11e7-8cef-108cb89b3dd0.png)
+
+## 小精靈
+![pacman](https://user-images.githubusercontent.com/5562807/29100769-66c9a5d4-7ce0-11e7-9d59-ef77eb72c635.png)
+
+## 貪吃蛇
+![snake](https://user-images.githubusercontent.com/5562807/29100770-66cac2c0-7ce0-11e7-8b8d-b1b3b4a4c9a5.png)
